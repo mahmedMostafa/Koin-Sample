@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KoinSample</string>
+    <string name="text">This is just a sample that shows nothing but logs</string>
+</resources>
